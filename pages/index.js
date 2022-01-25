@@ -70,7 +70,7 @@ export default function PaginaInicial() {
           display: "flex",
           alignItems: "center",
           justifyContent: "center",
-          backgroundColor: appConfig.theme.colors.primary[500],
+          backgroundColor: appConfig.theme.colors.primary[800],
           backgroundImage:
             "url(https://virtualbackgrounds.site/wp-content/uploads/2020/08/the-matrix-digital-rain.jpg)",
           backgroundRepeat: "no-repeat",
@@ -109,7 +109,7 @@ export default function PaginaInicial() {
               marginBottom: "32px",
             }}
           >
-            <Title tag="h2">Boas vindas de volta!</Title>
+            <Title tag="h2">Hello World!</Title>
             <Text
               variant="body3"
               styleSheet={{
