@@ -1,6 +1,6 @@
 ## Aluracord - Discord da Alura Matrix
 Projeto criado na Imersão React da Alura com Mario Souto e Paulo Silveira.
 
-<hr>
-Ana Maria Silva
-anamariasilva
+--
+Ana Maria Silva<br>
+github.com/anamariasilva
