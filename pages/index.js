@@ -42,7 +42,7 @@ export default function PaginaInicial() {
           display: "flex",
           alignItems: "center",
           justifyContent: "center",
-          backgroundColor: appConfig.theme.colors.primary[800],
+          /*backgroundColor: appConfig.theme.colors.primary[800],*/
           backgroundImage:
             "url(https://www.anamaria.dev.br/images/background-aluracord.png)",
           backgroundRepeat: "no-repeat",
