@@ -3,4 +3,4 @@ Projeto criado na Imersão React da Alura com Mario Souto e Paulo Silveira.
 
 --<br>
 Ana Maria Silva<br>
-github.com/anamariasilva
+https://github.com/anamariasilva/aluracord
