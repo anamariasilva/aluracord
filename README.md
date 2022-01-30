@@ -3,7 +3,7 @@ Projeto criado na Imersão React da Alura com Mario Souto e Paulo Silveira.
 
 https://github.com/anamariasilva/aluracord
 
-[<img width='500px' src='https://gerador-de-imagens-omariosouto-alura-challenges.vercel.app/api/image-generator?url=aluracord.vercel.app&v=2'/>](aluracord.vercel.app/)]
+[<img width='500px' src='https://aluracord-3esyltw9n-anamariasilva.vercel.app'/>](https://aluracord-anamariasilva.vercel.app/)]
 
 --<br>
 Ana Maria Silva<br>
