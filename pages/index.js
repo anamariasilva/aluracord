@@ -72,9 +72,10 @@ export default function PaginaInicial() {
           <Box
             as="form"
             onSubmit={function (infosdoEvento) {
-              infosdoEvento.preventDefault;
-              console.log("alguém submeteu o form!");
-              roteamento.push();
+              infosDoEvento.preventDefault();
+              console.log("Alguém submeteu o form");
+              roteamento.push("/chat");
+              // window.location.href = '/chat';
             }}
             styleSheet={{
               display: "flex",
@@ -86,7 +87,7 @@ export default function PaginaInicial() {
               marginBottom: "32px",
             }}
           >
-            <Title tag="h2">Hello World!</Title>
+            <Title tag="h1">Aluracord</Title>
             <Text
               variant="body3"
               styleSheet={{
@@ -140,7 +141,7 @@ export default function PaginaInicial() {
                 contrastColor: appConfig.theme.colors.neutrals["000"],
                 mainColor: appConfig.theme.colors.primary[500],
                 mainColorLight: appConfig.theme.colors.primary[400],
-                mainColorStrong: appConfig.theme.colors.primary[600],
+                mainColorStrong: appConfig.theme.colors.primary[500],
               }}
             />
           </Box>
