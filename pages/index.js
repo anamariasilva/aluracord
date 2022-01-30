@@ -72,7 +72,7 @@ export default function PaginaInicial() {
           <Box
             as="form"
             onSubmit={function (infosdoEvento) {
-              infosDoEvento.preventDefault();
+              infosdoEvento.preventDefault();
               console.log("Alguém submeteu o form");
               roteamento.push("/chat");
               // window.location.href = '/chat';
