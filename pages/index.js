@@ -13,6 +13,7 @@ function Title(props) {
         {`
           ${Tag} {
             color: ${appConfig.theme.colors.neutrals["000"]};
+            font-family: "Impact";
           }
         `}
       </style>
