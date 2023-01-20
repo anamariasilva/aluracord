@@ -5,7 +5,7 @@ Projeto criado na Imersão React da Alura com Mario Souto e Paulo Silveira. [alu
 | :placard: Vitrine.Dev |                                                      |
 | --------------------- | ---------------------------------------------------- |
 | :sparkles: Nome       | **Discord da Alura Matrix by Ana Maria Silva**       |
-| :label: Tecnologias   | java, html, ruby, c# (tecnologias utilizadas)        |
+| :label: Tecnologias   | HTML, CSS, JavaScript (tecnologias utilizadas)        |
 | :rocket: URL          | https://aluracord-anamariasilva.vercel.app/          |
 | :fire: Desafio        | https://github.com/alura-challenges/aluracord-matrix |
 
